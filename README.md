@@ -1,4 +1,4 @@
-## Dividida em 3 partes: 
+## Dividida em 3 partes:
 
 - API
 - API local - Consumir dados (npx lite-server)
