@@ -4,12 +4,12 @@
 - API local - Consumir dados (npx lite-server)
 - Front - Exibição dos dados no Browser
 
-### Dependencias utilizados
+### Dependencias utilizadas
 
-- node (npm i express nodeon cors axios)
+- node (npm i express nodemon cors axios)
 - nodemon - reload-real-time
 - cors - permite o acesso do Front -> API
-- axios - 
+- axios - gerencia a resposta da nossa request
 - express - ajuda a criar nossa API
 - lite-serve - CRIA UM SERVIDOR LOCAL PARA TESTES
 - 
